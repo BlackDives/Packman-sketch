@@ -1,0 +1,23 @@
+{
+  "name": "pacman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "p5.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlackDives/Packman-sketch.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BlackDives/Packman-sketch/issues"
+  },
+  "homepage": "https://github.com/BlackDives/Packman-sketch#readme",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
